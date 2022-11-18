@@ -5,9 +5,9 @@
 }
 body { 
     font: 62.5%/1.5  "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif; 
-    background: #e0eafc;
-    background: -webkit-linear-gradient(to right, #e0eafc, #cfdef3);
-    background: linear-gradient(to right, #e0eafc, #cfdef3);
+    background: darksalmon;
+    background: -webkit-linear-gradient(to right, #a3751d, #c48c23);
+    background: linear-gradient(to right, #c08d28, #b8a130);
     color: #000000;     
     text-align:center; 
 } 
@@ -31,7 +31,7 @@ p {
 input.text 
   { 
   padding: 3px; 
-  border: 1px solid #999999;     
+  border: 1px solid burlywood;     
 }
 
 img {  

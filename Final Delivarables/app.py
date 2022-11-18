@@ -65,4 +65,5 @@ def catch_all():
     return redirect(url_for("demo2"))
 
 if __name__ == "__main__":
+    app.debug = True
     app.run()
